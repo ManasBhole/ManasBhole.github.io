@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Online-Medical-System-Project",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/ManasBhole/Online-Medical-System-Project",
+      "description": "🔥 Online-Medical-System is ecommerce website where users can buy medicines online and can get to know a short description of the hospitals in their city.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "simple-icons:php"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Faculty-Expertise-Management-Tool",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/ManasBhole/Faculty-Expertise-Management-Tool",
+      "description": "📦 The Objective of this project is to help the faculty of RAIT to manage their data at one place in an efficient manner.This will allow to faculty member to store ,retrevive their data also additional feature for creating report has been added.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Online Coding Platform",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/ManasBhole/Final_Project_BMH",
+      "description": "🌀 Online Coding Platform for Students along with Plagiarism Detection.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Reactjs",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "PYTHON_KIVY_PROJECT",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/ManasBhole/PYTHON_KIVY_PROJECT",
+      "description": "⚙️ An alarm system interface developed using library of python named kivy which includes quiz to answer and stop the alarm.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Introduction-to-jsonpowerdb",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://github.com/ManasBhole/Introduction-to-jsonpowerdb",
+      "description": "🚀 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Stock Market Prediction using Numerical and Textual Analysis",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://github.com/ManasBhole/The-Sparks-Foundation-Data-Science-/blob/main/MANAS%20BHOLE%20GRIP-JAN21-TASK%237-Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis.ipynb",
+      "description": "🚀 Created a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
